@@ -1,3 +1,3 @@
-# Dan Efimov. Personal Blog
+# Dan Efimov
 
 Sontent here...
